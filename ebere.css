@@ -84,6 +84,7 @@ ul.b{
     list-style-position: inside;
     margin-left: 20px;
 }
+
 #instruct{
     margin-left: 25px;
     padding: 20px 0px 10px;
@@ -117,12 +118,24 @@ table{
     width: 100%;
     height: 2px;
     
+} 
+
+b{
+    color:rgb(97, 6, 6) ;
+    margin-left: 200px;
 }
-.row2{
 
-
+.table{
+    margin-left: 50px;
+    margin-top: 10px;
+    
+}
+td{
+    border-bottom: 0.5px solid #9c9b9b; 
+    
     
 
 
 }
    
+
