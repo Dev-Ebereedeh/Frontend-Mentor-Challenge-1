@@ -74,7 +74,13 @@ ul.a{
     list-style-position: inside;
     margin-left: 20px;
     padding: 10px 20px 10px;
+    
 }
+
+ul.a ::marker { color: rgb(97, 6, 6);
+
+}
+
 h4{
     color: rgb(97, 6, 6);
     margin-left: 40px;
@@ -83,6 +89,7 @@ h4{
 ul.b{
     list-style-position: inside;
     margin-left: 20px;
+    
 }
 
 #instruct{
